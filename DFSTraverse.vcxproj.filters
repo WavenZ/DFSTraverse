@@ -14,4 +14,23 @@
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="DFS_main.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ALGraph.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="DFS.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ALGraph.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="DFS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>

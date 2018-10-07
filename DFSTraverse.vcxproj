@@ -115,6 +115,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ALGraph.c" />
+    <ClCompile Include="DFS.c" />
+    <ClCompile Include="DFS_main.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ALGraph.h" />
+    <ClInclude Include="DFS.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
